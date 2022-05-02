@@ -1,1 +1,2 @@
-print ("Hello world!")
+name = 'Slava'
+print ('Hello',name)
